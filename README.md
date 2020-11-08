@@ -1,2 +1,3 @@
-# tetris-Using-pure-Javascript-html-Css-Following-Ania-kubow-tutorial
-basic tetris inspired by ania kubow
+# tetris-
+basic tetris Using pure Javascript html Css Following Ania-kubow's tutorial 
+inspired by ania kubow
