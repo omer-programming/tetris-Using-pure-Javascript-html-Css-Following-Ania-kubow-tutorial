@@ -1,3 +1,4 @@
+//start your code here ...
 document.addEventListener('DOMContentLoaded', () => {
 
     const grid = document.querySelector('.grid');
